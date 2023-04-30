@@ -17,7 +17,7 @@ public class Main {
 		System.out.println("Digite o comprimento do terreno:");
 		comprimento = sc.nextFloat();
 		
-		System.out.println("Digite o pre�o do M2 do terreno:");
+		System.out.println("Digite o preco do M2 do terreno:");
 		pm2 = sc.nextDouble();
 		area = largura * comprimento;
 		valor = area * pm2;
